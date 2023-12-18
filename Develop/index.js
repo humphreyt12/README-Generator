@@ -98,7 +98,11 @@ function init() {
     const writeToFile =  generateMarkdown(answers);
     
     fs.writeFile('README.md', writeToFile, (err) =>
+<<<<<<< HEAD
       err ? console.log(err) : console.log('You successfully created a README file!')
+=======
+      err ? console.log(err) : console.log('Successfully created a README file!')
+>>>>>>> e9c88e351bbc1b0b74609766653eda6f7ceaa7df
     );
   });
 }

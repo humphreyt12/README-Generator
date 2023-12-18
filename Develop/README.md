@@ -1,4 +1,5 @@
 # README Generator
+<<<<<<< HEAD
 
   ## Table of Contents
   * [Description](#Description)
@@ -31,3 +32,7 @@
   ## Contact Me
    humphreyt12
    humphrey14t@gmail.com
+=======
+  # test
+
+>>>>>>> e9c88e351bbc1b0b74609766653eda6f7ceaa7df
