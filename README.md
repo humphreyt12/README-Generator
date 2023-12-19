@@ -1,6 +1,5 @@
 # Professional README Generator
 
-## Table of Contents
   ## Table of Contents
   * [Description](#Description)
   * [Installation](#Installation)
