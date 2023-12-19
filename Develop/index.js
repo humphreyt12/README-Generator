@@ -54,7 +54,7 @@ const questions = [
         type: 'checkbox',
         message: 'What type of license do you want for the project?',
         name: 'license',
-        choices: ['MIT', 'GNU GPLv3', 'Mozilla Public License 2.0', 'Apache License 2.0', 'The Unlicense', 'Boost Software License 1.0'],
+        choices: ['MIT_License', 'GNU_GPLv3', 'Mozilla_Public_License_2.0', 'Apache_License_2.0', 'The_Unlicense', 'Boost_Software_License_1.0'],
       },
       {
         type: 'input',
@@ -98,11 +98,7 @@ function init() {
     const writeToFile =  generateMarkdown(answers);
     
     fs.writeFile('README.md', writeToFile, (err) =>
-<<<<<<< HEAD
       err ? console.log(err) : console.log('You successfully created a README file!')
-=======
-      err ? console.log(err) : console.log('Successfully created a README file!')
->>>>>>> e9c88e351bbc1b0b74609766653eda6f7ceaa7df
     );
   });
 }

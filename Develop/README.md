@@ -1,5 +1,4 @@
 # README Generator
-<<<<<<< HEAD
 
   ## Table of Contents
   * [Description](#Description)
@@ -8,31 +7,27 @@
   * [Contribute](#Contribute)
   * [Tests](#Tests)
   * [License](#License)
-  * [Contact Me](#Contact Me)
+  * [Contact_Me](#Contact_Me)
   
   ## Description
-  an application using node to create a README file
+  d
 
   ## Installation
-  these are the steps
+  i
 
   ## Usage
-  these are the instructions
+  u
 
   ## Contribute
-  this is the application
+  c
 
   ## Tests
-   these are the tests
+   tests
 
   ## License 
-  ![license](http://img.shields.io/badge/license-MIT-informational.svg?style=for-the-badge&logo=appveyor)
-  This project uses a MIT license.
-  
-  ## Contact Me
-   humphreyt12
-   humphrey14t@gmail.com
-=======
-  # test
+  ![license](https://img.shields.io/badge/License-Apache_License_2.0-yellow.svg)
+  This project uses a Apache_License_2.0 license.
 
->>>>>>> e9c88e351bbc1b0b74609766653eda6f7ceaa7df
+  ## Contact Me
+  Github: humphreyt12
+  Email: humphrey14t@gmail.com
