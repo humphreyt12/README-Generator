@@ -10,7 +10,7 @@ function generateMarkdown(data) {
   * [Contribute](#Contribute)
   * [Tests](#Tests)
   * [License](#License)
-  * [Contact_Me](#Contact_Me)
+  * [Contact_Me](#Contact Me)
   
   ## Description
   ${data.description}
