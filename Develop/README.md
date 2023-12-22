@@ -7,19 +7,19 @@
   * [Contribute](#Contribute)
   * [Tests](#Tests)
   * [License](#License)
-  * [Contact_Me](#ContactMe)
+  * [Contact_Me](#Contact_Me)
   
   ## Description
-  A command line application that generates a README using node
+  A command line application that generates a README using node.
 
   ## Installation
-  npm  init
+  npm init
 
   ## Usage
-  You can use this README as a guideline to create a professional one
+  Use this README as a guideline to create a professional on
 
   ## Contribute
-  no contributors
+  Clone this readme
 
   ## Tests
    node index.js in the terminal
@@ -29,5 +29,5 @@
   This project uses a MIT_License license.
 
   ## Contact Me
-  Github: humphreyt12
+  Github: https://github.com/humphreyt12
   Email: humphrey14t@gmail.com
